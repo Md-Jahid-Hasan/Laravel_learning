@@ -11,7 +11,7 @@ body{
     
 }
 .navbar-name{
-    width: 40%;
+    width: 50%;
     color:white;
 }
 
@@ -22,10 +22,10 @@ body{
 }
 .btn{
     padding: 10px;
-    margin: 10px;
+    margin: 5px;
     text-align: center;
     background-color:#008CBA;
-    border-radius: 4px;
+    border-radius:1px;
     transition-duration: 0.4s;
 }
 .btn:hover{
